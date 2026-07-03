@@ -1,96 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Den! 👋
 
-# Denys Zatkhei – Senior Software Test Automation Engineer
+**QA Automation Lead | Test Architect | Engineering Manager**
 
-## Summary
-- Build from scratch and extend the testing framework for new functionalities; improve its security measures and refactor by customer requirements
-- Organize QA team processes; facilitate knowledge transfer sessions
-- Deploy Python-based test cases and scenarios, ensuring comprehensive test coverage
-- Integrate the testing framework with Xray/Test Rail Test Management tools
-- Manage code review processes across multiple repositories
-- Maintain communication with customers; participate in demo and KT sessions
-- Automate testing processes using Pytest and other tools
-- Establish coding standards for Python projects in the team to foster code quality
-- Collaborate with local and remote developers to ensure testing coverage
-- Develop GitHub/Jenkins workflow actions, and automate CI/CD processes
-- Coordinate with cross-functional teams; integrate testing into the development lifecycle
-- Facilitate Scrum events; manage distractions, allowing team focus
-- Foster negotiations between Product Owner and the team
-- Create and maintain comprehensive documentation including test plans, functional and non-functional test strategies
-- Build performance testing frameworks and infrastructure from scratch
-- Conduct performance testing, including load and stress tests, to ensure system reliability and scalability
-- Act as an additional participant in resource management
+I am a QA Engineering Leader with over 10 years of experience specializing in test architecture, CI/CD infrastructure, and cross-functional team leadership. My focus is on eliminating bottlenecks, driving AI adoption, scaling engineering teams, and building robust automation frameworks (managing projects with 2,000+ tests) that empower continuous delivery across multiple tech stacks.
 
-## Skills
+---
 
-### Business Functions
-- Corporate Communications: Interviewing
+## 🚀 Leadership, AI & Enterprise Impact
 
-### Consulting Practice
-- Business Consulting: Customer Service & Support, Test Design and Delivery, Carrier, Writing for Instructional Design and Training
+* 🧠 **AI-Driven QA Agents:** Architected and deployed custom AI agents to automate routine engineering tasks, including **Automated PR Reviews**, **Test Failure Analyzers** seamlessly integrated with Jira and Datadog, and dynamic **Test Scenario Generators** driven by MCP (Model Context Protocol).
+* 👥 **Team Building & Talent Management:** Act as a Resource Manager and Certified Technical Interviewer. Scaled engineering teams by defining the technical hiring bar, conducting high-level technical interviews, and mentoring engineers to foster a culture of quality and accountability.
+* ⚡ **Platform Engineering & CI/CD:** Architected deployment workflows using **Kubernetes, Argo CD, and Docker**. Redesigned CI/CD pipelines leveraging GitHub Actions, Jenkins, Bash, and PowerShell, forecasting savings of **~140 hours per PI**.
+* 🏗️ **Framework Architecture & Auditing:** Conducted full-scale analysis of massive test frameworks (**~2,000 automated tests**). Engineered **custom linters and static analyzers** tailored to specialized client standards, resolving critical technical debt and improving system reliability.
+* 🎯 **QA Strategy & Observability:** Collaborated with stakeholders to define acceptance criteria and test strategies. Designed performance testing scripts, monitored application metrics, and integrated tools like **Dependabot** and **Xray** to ensure full security compliance and traceability.
 
-### Engineering Practices
-- Infrastructure & Operations: Linux Administration
-- Digital Engagement: Java Core
-- Advanced Technology: Test strategy, Technology Learner, Test Procedures & Test Reports preparation, CI/CD, Continuous Delivery, Python Asynchronous Programming, Technical Debt Management, Python Core, Refactoring, Code Quality Practices, Python Parallel Programming, Code Review, Strategy, Python OOP, Test planning & reporting, Software Development Methodology in Engineering, Python Testing, Writing DevOps Documentation, Code Standards, Python Functions, Continuous Integration, Writing Developers-oriented Documentation, Cross-stack Engineering, Static Code Analysis, Version Control Principles, Performance Testing in Software Engineering
-- Cloud: Infrastructure Security Testing, Cloud Support Services, Containerization, Cloud Computing basics, Cloud Operations, Continuous Delivery Development & Maintenance, Automation Using Scripting and Programming Languages, Continuous Integration Development & Maintenance
-- Management: Communication and interaction with Customer, Test Management
-- Intelligent Enterprise: Python for Data Analytics, DBA, Storage Systems Architecture, In-Memory Data Processing, Database concepts
-- Quality Engineering: Database Testing, Test Automation Strategy and Planning, Quality Gates, Static testing, Test Automation Approaches, Performance Testing, Behaviour-driven Testing, Test Automation Framework Architecture in JS, Data migration testing, Network Performance Analysis, Soak testing, Test Automation in SDLC, Test Automation Metrics and Reporting, GUI Testing, Performance Analysis, Network traffic capture, Web Service / API Testing, Remote Moderated Testing, Xpath/Css Locators, Domain/function testing, Performance Testing Fundamentals, Test Automation Estimation, Test Automation Framework Architecture, Test Automation Development in JS ecosystem, Performance Test Reporting, Test Results Analysis and Reporting, System Testing, Test Automation of Application Interfaces, Context-Driven Testing, Remote Unmoderated Testing, Multi-Variate Testing, Cross-Platform testing, Unit Testing, Stress testing, Testing Fundamentals, Risk Based Testing, Test Levels, Web Service / API Test Automation, Web applications Client-side Performance Testing, Regression testing, Scalability testing, Functional Testing, Embedded Software Testing, Automated Testing in Python, Network Performance Optimization, Data-driven Testing, System Integration Testing, Test Strategy Development, Android Automated Testing, Test Automation Framework Architecture in Python, Database Performance Profiling, Internationalization Testing (I18n), Accessibility Testing, Component / Integration Testing, Test Cases Development, Web Test Automation, Performance Test & Analysis Strategy Development, Compatibility Testing, Performance Optimization, Model Based Testing / Scenario Based Testing, Quality Engineering, Exploratory testing, Test Automation Development in Java ecosystem, Performance Testing on Cloud, Usability Testing, Installation Testing, Work with Embedded content, Load Testing, Extract, transform, and load Testing, Test Approaches, Performance Bottlenecks Identification, Test Design Techniques, Traceability Matrix, Ajax scripts testing, Web Applications Performance Testing, Backward Compatibility testing, Operating Systems (OS) Performance Optimization, Volume testing, Memory Profiling, Testing Domains, Test Estimations, Test Risk Management, Cross-browser testing, Test Plan Development, Application Health, Automated Testing in DSL, Test Automation Framework Architecture in Java, Test Automation Principles, Defect Management, Requirements Analysis and Testing, In-Person Testing
+---
 
-### Industries
-- Social & Public Sector: Governmental Organisations
-- Industrial: Warehouse Logistics
-- Consumer: E-commerce
-- Financial Services: Financial Services
+## 🛠️ Tech Stack & Architecture
+*I select tools based on architecture needs and scale. Here is my core stack:*
 
-### Leadership & Soft Skills
-- Communication: Empathy, Self-awareness, Negotiations, Trust building, Meeting Facilitation, Active listening, Communication, Building dialogue, Self-regulation, Emotional Intelligence
-- Business Acumen: Domain Knowledge, Financial Awareness, Business Acumen, Market orientation
-- Diversity, Equity, and Inclusion: Diversity, Equity, and Inclusion
-- Ownership: Problem-solving, Time Management, Result-orientation, Decision-making, Accountability, Self-Management, Ownership, Task Management
-- Leadership: Mentoring, Driving Change and Innovation, Professional Development Planning, Clarity and argumentation, Leadership, Developing Others
-- Consultancy: Client Relationship Management, Delivery Excellence, Consultancy
-- Teamwork and Collaboration: Team Management, Creating team climate, Building hybrid teams, Teamwork and Collaboration, Guiding information sharing
-- Growth Mindset: Adaptability
+* **DevOps & Cloud:** Kubernetes, Argo CD, Docker, GitHub Actions, Jenkins
+* **Languages & Scripting:** Python (Advanced), JavaScript, Bash, PowerShell
+* **Testing & Automation:** Pytest, Cypress, Custom Frameworks, Performance Tools
+* **AI & Observability:** LLM Agents, MCP, Datadog
+* **Databases & Data:** PostgreSQL
+* **QA Management:** Xray, TestRail, Jira, Confluence
 
-### Managerial
-- Product Management: Backlog management, Data analysis and visualization
-- Project Management: Delegation, Schedule and Roadmap management, Project Management, Knowledge Management, Project planning, Project Team Management, Project estimations
-- General Management: Problem Analysis & Resolution, Waterfall, Root Cause Analysis, Agile, Pareto Analysis, General Management, Estimation, Change management, Relationship Management, Risk Analysis and Management, Scrum, Kanban, Strategic Communications, Interviews, Brainstorming
-- People Management: Career Advising, Coaching, Resource Management
+---
 
-### Technologies
+## 📦 Open Source & Developer Tools
 
-#### Standard
-- Git, HTTP, HTTPS, OAuth2
+As a Lead, I believe in improving Developer Experience (DX) and eliminating routine.
 
-#### Infrastructure
-- Continuous Integration & Delivery tools, Monitoring tools, Docker
+### 🔍 [search-and-run-test](https://github.com/den-cezar/search-and-run-test)
+*A custom browser extension designed to optimize daily QA routines by enabling quick search and execution of test cases directly from the browser UI.*
+* **The Problem:** Constant context switching and navigating through complex web interfaces to find and trigger specific tests slows down daily velocity.
+* **The Solution:** A lightweight browser extension that integrates seamlessly into the engineer's workflow, allowing them to find and run tests instantly.
+* **Tech:** JavaScript, Browser Extension API, HTML/CSS.
 
-#### Computer Languages
-- Python, JavaScript, SQL, Bash, Groovy, PowerShell, Java
+---
 
-#### IDE
-- JetBrains PyCharm, JetBrains, Visual Studio Code
+## 📫 Let's Connect
 
-#### Libraries & Frameworks
-- Selenium, Pytest, Requests [HTTP library for Python], Flask, Django Rest Framework, Mockito, PHPUnit, Pandas, JUnit, jQuery, Cypress
-
-#### Security Technologies
-- Infrastructure Security Automation, Application Security Automation, Security Vulnerabilities
-
-#### Platforms
-- Amazon Web Services (AWS), Docker, GitHub, Jenkins
-
-#### Data
-- MySQL, MongoDB, Redis, SQLite, Oracle RDBMS
-
-#### Operating Systems
-- Unix, Windows, Linux, macOS, Android, iOS
-
-### Performance Testing Tools
-- Locust, JMeter
-
-### Cloud Services
-- AWS Elastic Load Balancing, AWS S3, AWS Lambda, AWS EC2, AWS VPC, AWS kubernetes
+Looking to discuss QA Architecture, AI Agents in Testing, or scaling Engineering Teams? 
+* 👔 [LinkedIn](https://www.linkedin.com/in/denys-zatkhei)
+* 📧 [Email](mailto:zatkhei.denys@gmail.com)
